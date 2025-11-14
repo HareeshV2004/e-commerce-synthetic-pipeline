@@ -1,0 +1,501 @@
+product_id,name,category,price,launch_date
+1,"Boyer, Bradley and Valenzuela Mouse",Electronics,2579.3,2023-02-19
+2,Dominguez PLC Bicycle,Sports & Outdoors,1459.9,2022-02-04
+3,Gray-Myers Keyboard,Electronics,1767.32,2024-06-08
+4,Stokes Inc Calculator,Office Supplies,940.63,2024-12-09
+5,"Harris, Crawford and Cain Belt",Apparel,4873.4,2024-11-02
+6,Jackson-Evans Belt,Apparel,2722.69,2023-11-09
+7,Crawford Inc Sauce,Food & Beverages,106.57,2025-07-29
+8,"Lewis, Baker and Evans Car Battery",Automotive,3180.18,2024-06-09
+9,Ballard-Weber LEGO Set,Toys & Games,3737.85,2022-05-23
+10,"Richard, Davis and Rogers Action Figure",Toys & Games,1727.29,2022-04-15
+11,"Solis, Alvarez and Clark Wallet",Apparel,3677.26,2025-05-21
+12,Pearson LLC Puzzle,Toys & Games,226.46,2024-02-23
+13,Reynolds-Fernandez Energy Drink,Food & Beverages,4068.48,2022-11-07
+14,Morales-Weber Candle,Home & Garden,4904.19,2023-12-06
+15,"Hines, White and Smith Oil Filter",Automotive,4058.43,2024-12-28
+16,"Huffman, Ray and Lewis Sunglasses",Apparel,189.73,2025-07-03
+17,"Hurley, Adams and Little Tent",Sports & Outdoors,3956.59,2025-06-10
+18,"Farrell, Meadows and Michael Smartwatch",Electronics,4667.19,2025-02-02
+19,"Brown, Gonzalez and Ford Cereal",Food & Beverages,4945.67,2023-01-09
+20,Francis LLC Pasta,Food & Beverages,1270.3,2025-08-04
+21,Jenkins-Dalton Yoga Mat,Sports & Outdoors,1788.09,2022-04-11
+22,"Harris, Gutierrez and Colon Mouse",Electronics,1662.96,2024-09-30
+23,Scott PLC Boots,Apparel,2187.57,2023-01-02
+24,Allen-Hernandez Toothbrush,Health & Beauty,4473.71,2022-02-13
+25,Robles LLC Skincare Cream,Health & Beauty,4868.75,2023-12-23
+26,Castro-Graham Jump Starter,Automotive,1839.9,2024-10-01
+27,Harris LLC Protein Bar,Food & Beverages,4006.73,2022-07-31
+28,Green LLC Lotion,Health & Beauty,2155.88,2024-10-20
+29,"Thompson, Phelps and Stuart Picture Frame",Home & Garden,1472.36,2024-01-25
+30,Brown Inc Jeans,Apparel,1642.96,2023-05-03
+31,"Evans, Brown and Friedman Comic Book",Books,2232.35,2023-07-19
+32,"Sandoval, Davis and Hahn Perfume",Health & Beauty,3450.38,2025-01-30
+33,Young PLC Card Game,Toys & Games,216.56,2025-02-14
+34,"Fitzpatrick, Boyd and Calderon Building Blocks",Toys & Games,4990.76,2025-04-19
+35,"King, Wilkerson and Young Novel",Books,379.83,2022-07-09
+36,Murphy-Silva Skincare Cream,Health & Beauty,2567.86,2023-08-29
+37,"Manning, Walls and Robinson Lamp",Home & Garden,718.18,2022-06-15
+38,Lewis LLC Desk Organizer,Office Supplies,178.82,2023-11-14
+39,King-Lawrence Jacket,Apparel,3893.68,2024-02-01
+40,"Brooks, Fry and Stewart RC Car",Toys & Games,1917.36,2023-10-21
+41,Vega-Richmond Pen Set,Office Supplies,3027.45,2025-05-03
+42,Cox Ltd Phone Mount,Automotive,1863.21,2023-07-26
+43,Smith-Rasmussen Wallet,Apparel,692.79,2024-07-30
+44,Skinner Ltd Video Game,Toys & Games,1575.36,2025-05-26
+45,Vazquez Ltd Textbook,Books,4802.8,2023-01-08
+46,Tran-Parker Tablet,Electronics,2497.72,2024-12-24
+47,Leach-Jennings Deodorant,Health & Beauty,593.22,2024-04-10
+48,Mathews Group Dictionary,Books,1076.78,2022-01-13
+49,Pennington-Hardin Folder,Office Supplies,3471.43,2023-04-13
+50,Mayer and Sons Brake Pad,Automotive,617.57,2023-04-08
+51,Villarreal and Sons Sunglasses,Apparel,867.42,2023-11-13
+52,"Stewart, Burnett and Newman Tire",Automotive,4053.51,2025-05-11
+53,Hill Inc RC Car,Toys & Games,3549.15,2025-07-02
+54,Ruiz-Gutierrez Sauce,Food & Beverages,1455.36,2025-07-30
+55,Love-Mcdowell Cookbook,Books,3560.49,2025-06-28
+56,Holloway Ltd Vase,Home & Garden,2546.23,2023-02-10
+57,"Jones, Fisher and Daniel Jacket",Apparel,3961.37,2024-04-30
+58,"Murphy, Neal and Gill Tennis Racket",Sports & Outdoors,136.29,2024-09-23
+59,"White, Ramos and Davidson Spice Set",Food & Beverages,1847.71,2022-01-05
+60,Gonzalez-Torres Chocolate,Food & Beverages,3061.68,2024-06-13
+61,Rodriguez and Sons Jeans,Apparel,1549.91,2024-03-13
+62,"Booker, Rivas and Hines Air Freshener",Automotive,2056.92,2025-08-08
+63,"Jennings, Sparks and Flores Face Mask",Health & Beauty,373.38,2024-01-14
+64,"Anderson, Thompson and Watkins Action Figure",Toys & Games,2252.62,2023-05-24
+65,Gonzalez-Perry Energy Drink,Food & Beverages,646.03,2022-10-10
+66,Walter-Duffy Spice Set,Food & Beverages,913.91,2024-06-05
+67,Smith Inc Plant Pot,Home & Garden,2516.8,2024-05-17
+68,"Salazar, Perez and Davis Laptop",Electronics,2592.92,2023-12-20
+69,Green and Sons Cookbook,Books,814.02,2022-03-19
+70,Williamson-Burke Running Shoes,Sports & Outdoors,4737.68,2022-08-20
+71,Rubio and Sons Protein Bar,Food & Beverages,4230.44,2024-05-31
+72,Smith PLC Textbook,Books,3177.11,2023-11-07
+73,Wilcox-Snyder Protein Bar,Food & Beverages,630.23,2022-12-15
+74,"Harris, Shah and Li Manual",Books,2669.72,2023-02-18
+75,Francis-Reyes Chocolate,Food & Beverages,2961.08,2023-11-02
+76,Greene LLC Stapler,Office Supplies,860.15,2025-02-02
+77,"Lopez, White and Sparks Whiteboard",Office Supplies,1691.41,2022-02-14
+78,Cherry-Young Pen Set,Office Supplies,4127.06,2023-12-02
+79,Wood Ltd Laptop,Electronics,232.08,2024-10-02
+80,Miller-Harrison Folder,Office Supplies,3257.39,2023-05-18
+81,"Sanders, Lewis and Reyes Calculator",Office Supplies,3092.45,2023-10-20
+82,"Harper, Jones and Hawkins TV",Electronics,4445.54,2022-03-22
+83,Galvan-Ruiz Protein Bar,Food & Beverages,3211.33,2023-07-05
+84,"Crosby, Coffey and George Dictionary",Books,1228.17,2025-03-08
+85,Smith PLC Vitamins,Health & Beauty,2270.45,2024-08-20
+86,Turner-Foster Tablet,Electronics,2200.83,2023-07-31
+87,Donaldson PLC Jump Starter,Automotive,1024.09,2022-03-05
+88,"White, Jackson and Vasquez Stapler",Office Supplies,1566.35,2023-06-11
+89,Anderson-Stewart RC Car,Toys & Games,4876.99,2024-04-03
+90,Thomas-Wilson Vase,Home & Garden,2577.33,2022-03-10
+91,Porter LLC Boots,Apparel,1212.48,2025-03-07
+92,Howe-Campbell Sneakers,Apparel,2250.73,2023-02-13
+93,"Gallegos, Mcintosh and Black Chair",Home & Garden,257.77,2023-11-08
+94,Stewart Group Face Mask,Health & Beauty,2093.58,2025-04-01
+95,Peters Ltd Vase,Home & Garden,4669.09,2024-09-16
+96,Brown-Hernandez Doll,Toys & Games,3816.79,2022-12-24
+97,Johnson LLC Air Freshener,Automotive,2336.74,2022-09-12
+98,"Mcdonald, Wilson and Woodard Dictionary",Books,120.77,2024-02-08
+99,Alexander Ltd Deodorant,Health & Beauty,2288.87,2024-05-21
+100,Ellis-Rodriguez Dumbbells,Sports & Outdoors,2918.8,2025-01-23
+101,Martinez Inc Smartphone,Electronics,1410.37,2022-11-13
+102,White-Jackson Desk Organizer,Office Supplies,1432.31,2024-03-01
+103,Elliott-Alvarado Laptop,Electronics,2157.48,2022-11-26
+104,"Bolton, Smith and Wang Guide",Books,3820.46,2022-10-08
+105,Knapp-Sanchez Board Game,Toys & Games,2005.91,2024-02-13
+106,"Davis, Murphy and Mitchell Printer Paper",Office Supplies,977.3,2024-11-23
+107,Long PLC Protein Bar,Food & Beverages,372.29,2022-06-14
+108,Hernandez-Miller Pasta,Food & Beverages,3823.2,2025-07-14
+109,"Keller, Gibson and Moses Manual",Books,3403.59,2024-07-12
+110,"Smith, Booker and Douglas Dress",Apparel,4875.54,2023-12-05
+111,Meza-Cooke Skincare Cream,Health & Beauty,3975.51,2025-05-23
+112,"Anderson, Boyer and Solis Stuffed Animal",Toys & Games,4695.05,2023-03-16
+113,Yates-Manning Rug,Home & Garden,3014.3,2024-04-29
+114,"James, Ross and Thompson Deodorant",Health & Beauty,206.07,2025-04-12
+115,Davis-Phelps Tablet,Electronics,3569.39,2022-09-11
+116,Chan-Mitchell Air Freshener,Automotive,2287.66,2025-03-15
+117,"Moore, Evans and Owen Printer Paper",Office Supplies,703.21,2025-02-17
+118,Mckee-Munoz Binder,Office Supplies,816.7,2023-07-12
+119,"Davis, Richardson and Gonzalez Folder",Office Supplies,2970.65,2023-11-23
+120,Alvarez-Hart Sauce,Food & Beverages,2664.04,2023-10-20
+121,Avila LLC Folder,Office Supplies,2377.09,2024-08-11
+122,Hamilton Group Smartwatch,Electronics,1659.54,2022-05-25
+123,Palmer Group Hat,Apparel,2920.59,2024-11-16
+124,Holland Ltd Keyboard,Electronics,2375.58,2022-08-29
+125,Rose-Holland Whiteboard,Office Supplies,1141.58,2022-05-11
+126,Mcdonald-Miller Keyboard,Electronics,2404.84,2025-05-30
+127,Evans-Joyce Spice Set,Food & Beverages,3874.16,2024-11-29
+128,Skinner-Mills Perfume,Health & Beauty,4109.2,2023-04-05
+129,"Williams, Jones and Williams Tent",Sports & Outdoors,2864.99,2022-06-17
+130,"Coleman, Davis and Guerrero Jacket",Apparel,99.59,2024-06-02
+131,Kelly-Richards Video Game,Toys & Games,761.4,2025-04-09
+132,"Smith, Yang and Ford Golf Clubs",Sports & Outdoors,2511.59,2025-05-06
+133,Cameron Inc Desk Organizer,Office Supplies,4364.72,2022-05-10
+134,Mcdowell-Evans Tablet,Electronics,2595.82,2024-07-01
+135,"Gibson, Santiago and Hanson Energy Drink",Food & Beverages,4990.62,2023-02-16
+136,Levy-Savage Air Freshener,Automotive,1887.24,2022-10-18
+137,Lopez Ltd Candle,Home & Garden,4561.06,2024-07-27
+138,Savage-Rodriguez Stuffed Animal,Toys & Games,1774.66,2024-04-10
+139,Smith Inc Manual,Books,2423.48,2022-01-21
+140,Rios Group Yoga Mat,Sports & Outdoors,2792.64,2024-12-10
+141,Melton-Church Yoga Mat,Sports & Outdoors,3857.02,2024-07-23
+142,"Tucker, Montgomery and Dickson Tennis Racket",Sports & Outdoors,1588.62,2023-07-15
+143,"Nunez, Vaughn and Foster Stuffed Animal",Toys & Games,4668.83,2023-04-16
+144,Martinez Inc Comic Book,Books,613.76,2022-10-24
+145,Cabrera Ltd Cereal,Food & Beverages,4479.32,2022-10-20
+146,Clark Ltd Skincare Cream,Health & Beauty,4773.27,2022-08-14
+147,"Allen, Wilkinson and Garrison Curtains",Home & Garden,215.12,2024-04-16
+148,Miller Group Boots,Apparel,4620.43,2022-08-19
+149,Henderson-Wilson Dictionary,Books,1073.86,2022-08-25
+150,"Park, Maynard and Ruiz Protein Bar",Food & Beverages,4665.45,2025-08-28
+151,Richards-Harris Cookbook,Books,550.59,2024-06-03
+152,Williams-Smith Paper Clips,Office Supplies,1216.08,2024-09-06
+153,"Reynolds, Perry and Simpson Snack Mix",Food & Beverages,3191.53,2024-06-17
+154,"Simon, Duarte and Johnson Laptop",Electronics,2069.44,2023-09-13
+155,Palmer-Hardy Tire,Automotive,3407.55,2024-11-20
+156,Hall-Brown Lamp,Home & Garden,4822.77,2022-01-30
+157,Ray-Tran Plant Pot,Home & Garden,3266.2,2023-02-21
+158,"Butler, Kennedy and Simpson Jump Starter",Automotive,3254.44,2024-09-30
+159,West-Graham Guide,Books,1430.65,2022-09-08
+160,Barber-Harrison Laptop,Electronics,3263.23,2023-11-12
+161,Romero PLC Basketball,Sports & Outdoors,3694.74,2024-11-30
+162,Dorsey-Castaneda Tablet,Electronics,2092.34,2025-01-16
+163,"Mcdonald, Ware and Sharp Lamp",Home & Garden,4985.87,2023-08-30
+164,Whitaker-Nunez Toothbrush,Health & Beauty,935.63,2025-02-15
+165,Flynn-Marsh Novel,Books,51.29,2025-08-04
+166,Howell LLC Whiteboard,Office Supplies,540.97,2024-12-08
+167,"Miller, Webb and Thompson LEGO Set",Toys & Games,2274.47,2022-08-31
+168,"Vasquez, Leon and Hahn Sauce",Food & Beverages,2472.09,2024-02-06
+169,Young-Hawkins Picture Frame,Home & Garden,2342.76,2022-01-29
+170,Ibarra-Kelly Backpack,Sports & Outdoors,1656.77,2022-09-04
+171,Clayton PLC Car Mat,Automotive,3594.4,2022-02-19
+172,Morgan Inc Smartwatch,Electronics,3954.88,2024-08-17
+173,Martinez and Sons Paper Clips,Office Supplies,881.6,2024-01-26
+174,Chaney-Glover Hairbrush,Health & Beauty,2578.83,2025-04-10
+175,Carrillo PLC Hat,Apparel,3347.93,2023-02-20
+176,Castaneda PLC Table,Home & Garden,2389.88,2024-07-27
+177,"Garcia, Williams and Shah Tent",Sports & Outdoors,1307.62,2025-05-26
+178,Estes-Campos Tennis Racket,Sports & Outdoors,3770.01,2022-06-14
+179,"Lynch, Garrison and Garcia LEGO Set",Toys & Games,2914.39,2024-05-23
+180,Romero and Sons Pen Set,Office Supplies,1311.46,2024-09-05
+181,Pitts LLC Doll,Toys & Games,315.31,2022-09-01
+182,"Carter, Alexander and Hunter Sunglasses",Apparel,1537.5,2025-02-11
+183,Moore LLC Deodorant,Health & Beauty,4615.91,2023-06-04
+184,Martinez and Sons Biography,Books,3195.36,2023-11-14
+185,Hammond-Smith Guide,Books,3075.05,2025-07-20
+186,Peterson-Wagner Bicycle,Sports & Outdoors,2393.52,2022-05-13
+187,Watson-Fischer Cleaning Kit,Automotive,1871.26,2023-07-15
+188,"Ortega, Hernandez and Molina Pasta",Food & Beverages,3787.97,2023-10-18
+189,Taylor Group Dumbbells,Sports & Outdoors,3403.31,2023-10-05
+190,Villanueva-Crane Notebook,Office Supplies,2629.91,2024-03-12
+191,"Cox, Johnson and Thomas Energy Drink",Food & Beverages,395.12,2022-01-16
+192,"Drake, Acevedo and Miller Notebook",Office Supplies,313.48,2023-05-05
+193,Holden-Martin Sauce,Food & Beverages,1014.77,2022-04-06
+194,Malone-Keller Chocolate,Food & Beverages,826.86,2024-09-23
+195,Orr Inc Pasta,Food & Beverages,585.62,2024-09-08
+196,"Lloyd, Liu and Kaufman Soccer Ball",Sports & Outdoors,2446.7,2023-10-14
+197,Blackwell-Haynes Pasta,Food & Beverages,4044.42,2023-04-18
+198,"Newton, Blankenship and Smith Oil Filter",Automotive,2568.67,2023-03-11
+199,"Bishop, Thomas and Powell Cleaning Kit",Automotive,293.4,2024-09-27
+200,Clay PLC Car Mat,Automotive,3617.78,2025-05-09
+201,"Pearson, Terry and Barron Vitamins",Health & Beauty,4083.18,2025-04-29
+202,"Sullivan, Gonzalez and Turner Soccer Ball",Sports & Outdoors,369.78,2022-02-27
+203,"Cook, Hardy and Singh Skincare Cream",Health & Beauty,3503.42,2022-07-15
+204,"Braun, Campbell and Davis Coffee Beans",Food & Beverages,4673.24,2024-05-07
+205,Boyd-Sherman Sunglasses,Apparel,163.52,2022-09-06
+206,Johnson PLC Perfume,Health & Beauty,3846.02,2024-07-09
+207,Allen-Schroeder Skincare Cream,Health & Beauty,4964.32,2025-02-02
+208,Benitez-Rodriguez Toothbrush,Health & Beauty,4348.75,2022-04-04
+209,Green-Romero Hairbrush,Health & Beauty,405.85,2022-07-12
+210,Sherman Inc Chocolate,Food & Beverages,3269.4,2023-11-29
+211,Armstrong-Smith Action Figure,Toys & Games,896.48,2023-06-11
+212,Trujillo PLC Cereal,Food & Beverages,2646.57,2024-05-28
+213,"Kline, Burton and Ferguson Tent",Sports & Outdoors,3782.12,2024-07-14
+214,Bell LLC Dictionary,Books,3369.13,2024-11-02
+215,"Armstrong, Taylor and Gray Cereal",Food & Beverages,2662.01,2025-02-19
+216,Garcia PLC Dumbbells,Sports & Outdoors,2305.82,2024-06-23
+217,Carson LLC Curtains,Home & Garden,946.46,2023-12-07
+218,Thomas Group T-Shirt,Apparel,4048.34,2025-07-10
+219,Miller-Brown Face Mask,Health & Beauty,3831.44,2022-07-22
+220,Lewis-Miller Headphones,Electronics,1034.38,2024-11-17
+221,"Powell, Hansen and Maxwell Wallet",Apparel,172.71,2023-02-14
+222,"Porter, Henderson and Alexander Pen Set",Office Supplies,1227.45,2024-01-31
+223,"Mcpherson, Colon and Thomas Camera",Electronics,2197.62,2022-07-17
+224,Dawson-Anderson Snack Mix,Food & Beverages,3773.16,2024-12-30
+225,"Boyer, Wilson and Lewis Tablet",Electronics,2521.96,2024-01-06
+226,Francis PLC Textbook,Books,4079.85,2023-07-28
+227,Guzman Group Binder,Office Supplies,2889.49,2022-06-21
+228,Wood LLC Doll,Toys & Games,1512.31,2022-03-04
+229,"Hernandez, Watson and Ritter Picture Frame",Home & Garden,1109.11,2023-04-17
+230,Tucker-Moody Comic Book,Books,309.48,2022-08-09
+231,"Fisher, Zuniga and Torres Stapler",Office Supplies,3131.84,2023-03-17
+232,White Ltd Deodorant,Health & Beauty,2480.63,2024-01-30
+233,Martinez LLC Video Game,Toys & Games,3930.09,2022-04-15
+234,Butler PLC Video Game,Toys & Games,2044.25,2023-04-27
+235,"Chavez, Morgan and Bennett Atlas",Books,923.48,2025-07-20
+236,"Bass, Anderson and Taylor Pasta",Food & Beverages,1208.64,2024-09-15
+237,Gill-Contreras Yoga Mat,Sports & Outdoors,4288.42,2022-08-20
+238,"Nguyen, Marsh and Beck Candle",Home & Garden,4574.13,2023-09-29
+239,Hall-Foster Cereal,Food & Beverages,4839.09,2024-04-20
+240,Rubio Group Sauce,Food & Beverages,674.79,2025-02-17
+241,Brewer-Cline Yoga Mat,Sports & Outdoors,1020.67,2025-01-03
+242,Armstrong Ltd Sunglasses,Apparel,4236.43,2023-04-25
+243,"Brewer, Schneider and Miller Belt",Apparel,3624.3,2024-08-19
+244,"Ray, Brown and Hudson Tent",Sports & Outdoors,1345.97,2022-10-22
+245,Shaw-Smith Whiteboard,Office Supplies,202.54,2024-10-19
+246,"White, Smith and Buchanan Jacket",Apparel,4024.23,2023-01-17
+247,"Combs, Riley and Miller Printer Paper",Office Supplies,1089.0,2024-04-08
+248,"Flores, Chapman and Henry Running Shoes",Sports & Outdoors,1519.42,2022-02-06
+249,Kim-Perry Headphones,Electronics,4686.11,2025-08-28
+250,"Stewart, Scott and Wilson Sunglasses",Apparel,4572.63,2022-06-04
+251,"Jackson, Thomas and Scott Paper Clips",Office Supplies,1986.18,2022-05-20
+252,Parker Group Basketball,Sports & Outdoors,1611.47,2024-11-20
+253,Brown LLC Atlas,Books,2333.92,2022-10-09
+254,Reeves LLC LEGO Set,Toys & Games,1311.5,2023-08-29
+255,Flores Group Pasta,Food & Beverages,2332.69,2023-05-19
+256,Bennett-Carey Phone Mount,Automotive,4572.08,2022-07-07
+257,Harris PLC RC Car,Toys & Games,2072.58,2024-06-29
+258,Vasquez PLC Paper Clips,Office Supplies,3707.56,2023-08-22
+259,Adams LLC Speaker,Electronics,2768.79,2023-12-24
+260,"Russell, Washington and Russell Whiteboard",Office Supplies,3601.46,2022-12-30
+261,Adams PLC Cookbook,Books,984.98,2024-11-14
+262,Sanchez PLC Golf Clubs,Sports & Outdoors,2851.1,2024-10-09
+263,Torres Group Tennis Racket,Sports & Outdoors,2755.46,2023-11-24
+264,Mathis PLC LEGO Set,Toys & Games,3817.99,2022-11-13
+265,Brooks and Sons Jump Starter,Automotive,2306.84,2025-04-29
+266,Medina Group Puzzle,Toys & Games,704.09,2024-05-12
+267,Williams-Hess Pasta,Food & Beverages,924.32,2025-07-12
+268,"Roberts, Stanton and Smith Coffee Beans",Food & Beverages,2622.1,2024-01-20
+269,Harper-Franco T-Shirt,Apparel,3822.87,2023-08-14
+270,Kirby-Lewis Perfume,Health & Beauty,4213.51,2025-07-29
+271,"Campbell, Martin and Ferguson Backpack",Sports & Outdoors,3537.31,2022-04-19
+272,Davis-Hale Headphones,Electronics,2531.14,2025-07-14
+273,Hardy LLC Board Game,Toys & Games,3091.09,2023-11-03
+274,Bishop LLC Desk Organizer,Office Supplies,3298.13,2024-11-25
+275,Reid-Petty Smartphone,Electronics,2663.4,2025-01-04
+276,Nelson-Bates Shampoo,Health & Beauty,88.55,2023-05-15
+277,Clark-Haley Encyclopedia,Books,4887.51,2023-05-26
+278,Sloan and Sons Monitor,Electronics,4066.72,2024-10-01
+279,Lynch Inc Perfume,Health & Beauty,539.55,2022-01-15
+280,"Thompson, Peters and Horton Belt",Apparel,748.74,2024-01-30
+281,Medina-Cobb Soccer Ball,Sports & Outdoors,2634.65,2024-10-05
+282,"Jones, Johnson and Collier LEGO Set",Toys & Games,3975.71,2024-11-09
+283,Chambers-Gomez Boots,Apparel,4796.69,2025-06-16
+284,Carey-Howard Cleaning Kit,Automotive,1219.82,2022-10-03
+285,"Terrell, Martinez and Wood Yoga Mat",Sports & Outdoors,3421.79,2022-10-27
+286,Smith-Paul T-Shirt,Apparel,472.04,2025-03-24
+287,Becker-Fletcher Hairbrush,Health & Beauty,2765.74,2022-10-25
+288,Velasquez Ltd Mouse,Electronics,52.2,2023-04-16
+289,"Walker, Baird and Coffey Chair",Home & Garden,2501.79,2022-02-27
+290,Vasquez-Padilla Skincare Cream,Health & Beauty,2831.45,2024-07-30
+291,Smith Ltd Belt,Apparel,4596.17,2023-09-08
+292,Kane PLC Dumbbells,Sports & Outdoors,4506.86,2024-02-17
+293,Jackson-Lee Desk Organizer,Office Supplies,1359.12,2025-02-21
+294,"Chambers, Morrison and Thompson Sneakers",Apparel,4497.06,2024-07-02
+295,Reese and Sons Pen Set,Office Supplies,900.88,2023-02-08
+296,"Foley, Ibarra and Daniel Board Game",Toys & Games,4807.54,2023-03-03
+297,Abbott Inc Stapler,Office Supplies,3762.51,2024-12-12
+298,"Patel, King and Castro Lotion",Health & Beauty,1499.89,2023-12-07
+299,Pace Ltd Paper Clips,Office Supplies,2835.65,2024-11-11
+300,"Williams, Mcmillan and Reynolds Deodorant",Health & Beauty,1661.99,2023-09-25
+301,Martinez-Holmes Chair,Home & Garden,2506.46,2024-02-09
+302,Holmes-Williams Board Game,Toys & Games,492.94,2025-01-25
+303,Williams Group Backpack,Sports & Outdoors,1706.26,2024-04-07
+304,Stewart-Myers Whiteboard,Office Supplies,1986.53,2023-06-04
+305,Beard Inc Board Game,Toys & Games,3172.44,2025-02-19
+306,Spence Group Jump Starter,Automotive,1144.55,2022-04-26
+307,Gonzalez LLC Cereal,Food & Beverages,2162.08,2023-04-28
+308,Garrett Inc Calculator,Office Supplies,433.04,2022-02-13
+309,Reynolds-Johnson Folder,Office Supplies,3991.29,2025-05-23
+310,"Mcconnell, Pittman and Wright Jeans",Apparel,1343.52,2024-01-06
+311,Benjamin Inc Perfume,Health & Beauty,3699.58,2025-06-30
+312,Stone-Young RC Car,Toys & Games,537.22,2022-04-24
+313,"Harvey, Duran and Garrett Speaker",Electronics,2226.46,2024-06-18
+314,Miller Inc Biography,Books,666.87,2022-02-21
+315,Edwards-Abbott Plant Pot,Home & Garden,2246.97,2022-04-12
+316,Brown Group Sauce,Food & Beverages,2043.18,2022-03-27
+317,Bishop-Reynolds Laptop,Electronics,1772.8,2022-06-08
+318,"Brown, Williams and Horn Wallet",Apparel,2992.23,2023-09-16
+319,Williamson Group Video Game,Toys & Games,66.64,2022-12-29
+320,"Cobb, Hanson and Chavez Hairbrush",Health & Beauty,3896.95,2023-12-23
+321,Hobbs-Harvey Snack Mix,Food & Beverages,2861.94,2023-06-12
+322,"Pace, Logan and Gibson Plant Pot",Home & Garden,851.66,2023-05-25
+323,"Lee, Garcia and Larson Comic Book",Books,1345.69,2022-04-15
+324,"Clarke, Lee and Berry Chair",Home & Garden,840.2,2024-09-17
+325,"Scott, Fisher and Hardy Atlas",Books,1502.26,2023-11-22
+326,Sanchez Inc Boots,Apparel,1262.24,2022-04-04
+327,Collins Group Tennis Racket,Sports & Outdoors,2971.06,2024-03-08
+328,"Webster, Collins and Mcclure Tennis Racket",Sports & Outdoors,539.33,2025-04-19
+329,Hernandez LLC Novel,Books,4744.37,2024-07-26
+330,Carter-Cordova Building Blocks,Toys & Games,1902.55,2024-03-15
+331,"Sandoval, Thomas and Young Card Game",Toys & Games,1677.01,2025-06-26
+332,"Trevino, Henderson and Gonzalez Stapler",Office Supplies,1505.67,2022-11-08
+333,"Kerr, Glover and Peterson Paper Clips",Office Supplies,2397.65,2024-11-03
+334,Neal-Holden Plant Pot,Home & Garden,4843.78,2024-07-20
+335,"Rivera, Lane and Mccarty Dictionary",Books,4838.98,2024-08-15
+336,Barnes-Martin Running Shoes,Sports & Outdoors,1883.4,2023-12-07
+337,Crawford Inc Skincare Cream,Health & Beauty,573.87,2024-09-19
+338,Steele Group Paper Clips,Office Supplies,2963.17,2024-08-27
+339,Allen Ltd Chocolate,Food & Beverages,3410.15,2025-04-08
+340,Aguirre-Bennett Coffee Beans,Food & Beverages,4765.26,2023-09-14
+341,Mckenzie Inc Brake Pad,Automotive,2195.08,2023-07-18
+342,Jones Inc Biography,Books,4095.73,2024-05-11
+343,Thomas Group Toothbrush,Health & Beauty,700.2,2022-10-29
+344,"Willis, Cannon and Williams Textbook",Books,1267.15,2022-02-16
+345,Gonzalez and Sons Plant Pot,Home & Garden,3946.44,2022-12-07
+346,Higgins-Morgan Sunglasses,Apparel,4953.55,2024-05-11
+347,White Inc Cleaning Kit,Automotive,2007.02,2022-10-01
+348,Lozano-Smith Cereal,Food & Beverages,2720.51,2024-11-18
+349,Gray Inc Stuffed Animal,Toys & Games,2971.13,2023-06-10
+350,Torres and Sons Jeans,Apparel,3845.93,2023-07-29
+351,Guerrero-Pugh Puzzle,Toys & Games,3236.76,2025-05-26
+352,"Keith, Johns and Jones Keyboard",Electronics,4918.12,2022-08-13
+353,Norton and Sons Skincare Cream,Health & Beauty,4828.76,2024-04-07
+354,Benson-Stewart Lotion,Health & Beauty,57.69,2023-10-30
+355,"Sanchez, Williams and Jensen Textbook",Books,2555.83,2022-10-21
+356,"Phillips, Hernandez and Wright Sauce",Food & Beverages,2904.69,2024-09-04
+357,Salas-York Paper Clips,Office Supplies,2231.66,2024-06-26
+358,Clark-Miller Toothbrush,Health & Beauty,3862.85,2024-01-02
+359,"Mendez, Jackson and Hughes Printer Paper",Office Supplies,757.97,2024-09-29
+360,"Brooks, Stone and White TV",Electronics,527.22,2025-01-11
+361,Fox-Webb Lotion,Health & Beauty,584.77,2024-02-08
+362,Adams-Morales Vase,Home & Garden,1562.89,2025-05-13
+363,"Santos, Clark and Jacobson Brake Pad",Automotive,2607.97,2023-12-04
+364,Foster LLC Card Game,Toys & Games,492.63,2023-10-23
+365,Duncan-Walls Phone Mount,Automotive,340.54,2023-08-05
+366,Pierce-Taylor Laptop,Electronics,117.81,2022-05-11
+367,Wallace-Bell Action Figure,Toys & Games,3387.31,2024-06-26
+368,Marshall PLC Rug,Home & Garden,2582.39,2023-06-07
+369,Hayes-Reynolds Chocolate,Food & Beverages,1658.29,2023-07-25
+370,Stewart-Reyes Toothbrush,Health & Beauty,1163.12,2022-10-06
+371,Hall-Brewer Perfume,Health & Beauty,936.0,2023-07-12
+372,Phillips PLC Hairbrush,Health & Beauty,150.82,2024-03-07
+373,"Schneider, Hartman and House Paper Clips",Office Supplies,2250.63,2022-06-02
+374,Jones Inc Hairbrush,Health & Beauty,27.23,2024-04-28
+375,Cook Ltd Dumbbells,Sports & Outdoors,1395.33,2023-05-27
+376,Turner-Ochoa Wallet,Apparel,513.25,2024-11-27
+377,Lee-Munoz Chocolate,Food & Beverages,1832.14,2022-08-03
+378,"Singh, Gaines and Smith Tennis Racket",Sports & Outdoors,574.21,2023-04-11
+379,Short-Logan Air Freshener,Automotive,4829.75,2023-09-20
+380,Underwood-Todd Building Blocks,Toys & Games,1946.25,2022-01-19
+381,Valdez-Hays Face Mask,Health & Beauty,575.59,2022-08-20
+382,Perez-Cummings Card Game,Toys & Games,3088.73,2022-11-23
+383,Hall-Matthews Manual,Books,2952.89,2024-05-08
+384,Sharp-Murray Vase,Home & Garden,593.72,2025-05-15
+385,Edwards and Sons Biography,Books,919.31,2023-10-29
+386,"Butler, Gonzales and Farrell Picture Frame",Home & Garden,1945.37,2022-02-16
+387,Taylor-Russo Stapler,Office Supplies,2876.16,2023-04-20
+388,"Smith, Cochran and Flowers Perfume",Health & Beauty,2435.92,2023-06-12
+389,Barnes Ltd Chocolate,Food & Beverages,2776.79,2025-03-15
+390,Farmer-Vaughn Car Mat,Automotive,705.78,2023-04-11
+391,Matthews-Bradley Card Game,Toys & Games,3098.95,2022-02-20
+392,Hernandez LLC Board Game,Toys & Games,2425.62,2024-06-01
+393,"Lloyd, Mcintyre and Berry Golf Clubs",Sports & Outdoors,4819.33,2023-08-31
+394,Harris-Myers Pasta,Food & Beverages,2048.63,2024-04-10
+395,Lopez-Rodriguez Dash Cam,Automotive,3552.16,2024-06-03
+396,Fowler-Torres Jump Starter,Automotive,840.43,2022-09-24
+397,Leonard and Sons Pen Set,Office Supplies,3980.43,2022-02-19
+398,"Morrison, Johnson and Gonzalez Yoga Mat",Sports & Outdoors,168.31,2023-08-23
+399,Harris-Carter Basketball,Sports & Outdoors,1446.91,2024-03-25
+400,Gibson LLC Cleaning Kit,Automotive,3713.88,2024-03-16
+401,Jackson Group Air Freshener,Automotive,2556.48,2023-08-31
+402,Mayo and Sons Notebook,Office Supplies,1343.11,2024-04-13
+403,Mendoza-Jones Energy Drink,Food & Beverages,2712.51,2022-11-17
+404,Harrell LLC TV,Electronics,2734.03,2023-11-03
+405,"Ortega, Moore and Andrews Lotion",Health & Beauty,3681.26,2023-04-28
+406,"Harris, Moran and Stevens Yoga Mat",Sports & Outdoors,4374.68,2022-11-10
+407,Ritter Group TV,Electronics,1317.76,2022-04-10
+408,Jacobs-Wright Sunglasses,Apparel,4327.13,2023-05-26
+409,"Suarez, Stevens and Johnston Jacket",Apparel,1053.34,2025-02-19
+410,Roberts Group Binder,Office Supplies,4305.94,2023-06-23
+411,"Kirby, Sparks and Myers Calculator",Office Supplies,834.08,2025-07-03
+412,Perry and Sons Rug,Home & Garden,4068.58,2024-08-17
+413,"Reynolds, Cruz and Hopkins Keyboard",Electronics,1757.32,2024-12-21
+414,"Davis, Hale and Williams Manual",Books,2696.15,2022-09-03
+415,Khan-Medina LEGO Set,Toys & Games,1450.22,2024-11-01
+416,Wolfe Ltd Encyclopedia,Books,4927.51,2022-12-04
+417,Jenkins-Gill Dress,Apparel,4814.05,2022-07-08
+418,Jones-Garcia Shampoo,Health & Beauty,4962.47,2025-04-05
+419,Ortiz-Martin Table,Home & Garden,1252.14,2022-11-19
+420,"Williams, Johnson and Fowler Doll",Toys & Games,3808.56,2024-11-15
+421,"Murray, Cooper and Ross Toothbrush",Health & Beauty,715.15,2022-10-29
+422,Johnson-King Atlas,Books,1878.99,2025-01-06
+423,Murphy Ltd Jeans,Apparel,2017.24,2023-12-23
+424,Murray-Miller Guide,Books,2276.2,2024-10-17
+425,Reeves Group Phone Mount,Automotive,2911.87,2022-08-06
+426,Hoover-Skinner Sunglasses,Apparel,3176.03,2022-09-23
+427,Lawson and Sons Action Figure,Toys & Games,3979.41,2023-04-02
+428,Nichols Group Makeup Set,Health & Beauty,4840.8,2022-09-19
+429,Powers Inc Tennis Racket,Sports & Outdoors,1346.34,2024-11-18
+430,Hernandez-Howard Guide,Books,2738.82,2022-12-03
+431,"Johnson, Leonard and Robinson Wall Clock",Home & Garden,4262.85,2024-12-18
+432,Copeland PLC Board Game,Toys & Games,234.48,2024-09-22
+433,"Moran, Prince and Myers Car Battery",Automotive,625.56,2023-04-24
+434,Williams-Smith Candle,Home & Garden,2285.31,2025-04-14
+435,Wang-Mcfarland Makeup Set,Health & Beauty,4978.49,2023-08-05
+436,Gonzalez Inc Curtains,Home & Garden,799.09,2023-10-18
+437,Hays LLC Biography,Books,3274.67,2025-06-28
+438,Frazier Inc Biography,Books,1862.36,2022-12-09
+439,Robles Ltd Lamp,Home & Garden,1984.73,2022-09-18
+440,"Jackson, Perry and Rodriguez Textbook",Books,2149.01,2023-05-24
+441,Hart-Lopez Jeans,Apparel,10.43,2022-11-18
+442,"Foster, Patterson and Hall Tire",Automotive,667.84,2022-06-14
+443,Morris-Smith Basketball,Sports & Outdoors,3401.51,2024-10-12
+444,Smith-Lewis Smartphone,Electronics,3479.51,2022-12-08
+445,Barrett LLC Hat,Apparel,3471.68,2024-10-06
+446,"Wood, Jones and Robinson Tire",Automotive,1148.59,2023-04-14
+447,"Porter, Mooney and Marquez Jeans",Apparel,520.49,2025-05-14
+448,"Jackson, Haley and Greene LEGO Set",Toys & Games,689.96,2024-09-07
+449,"Price, Middleton and Wise Table",Home & Garden,346.72,2022-07-26
+450,Thompson-Gill Pen Set,Office Supplies,3053.54,2024-12-04
+451,Spence-Estrada Candle,Home & Garden,1759.18,2022-04-15
+452,Smith-Barr Bicycle,Sports & Outdoors,4599.87,2023-11-29
+453,Dixon-Harmon Desk Organizer,Office Supplies,4300.51,2024-02-22
+454,"Bush, Smith and Smith Jeans",Apparel,704.37,2025-03-24
+455,Parker Ltd Wallet,Apparel,3651.4,2023-10-28
+456,Harvey Inc Video Game,Toys & Games,1575.95,2022-08-02
+457,Jimenez-Harris Rug,Home & Garden,1388.45,2023-08-07
+458,May and Sons Jacket,Apparel,2769.22,2025-01-31
+459,"Hinton, Wallace and Wiley Whiteboard",Office Supplies,1428.18,2022-07-28
+460,Stewart-Buchanan Mouse,Electronics,4379.76,2022-03-03
+461,"Conner, Perry and Hess Basketball",Sports & Outdoors,3036.6,2025-03-11
+462,Perez Ltd Golf Clubs,Sports & Outdoors,1481.23,2023-05-30
+463,Allen-Ryan Headphones,Electronics,2476.96,2024-10-30
+464,Solis Ltd Jacket,Apparel,2500.41,2025-01-22
+465,Franklin Group Notebook,Office Supplies,2643.79,2024-03-21
+466,White-Soto Smartwatch,Electronics,4669.95,2022-04-11
+467,Jones-Lee Plant Pot,Home & Garden,4304.77,2024-09-12
+468,Mays and Sons Calculator,Office Supplies,1830.24,2022-05-23
+469,Watkins and Sons Candle,Home & Garden,4772.49,2023-01-03
+470,"Miller, Hardy and Collins T-Shirt",Apparel,2938.88,2025-01-26
+471,Sanchez and Sons Speaker,Electronics,1082.64,2024-07-30
+472,Turner PLC Camera,Electronics,2535.52,2023-11-28
+473,"Harris, Huffman and Olson Cereal",Food & Beverages,2120.76,2023-07-13
+474,Gray-Ruiz Lotion,Health & Beauty,3204.48,2023-10-19
+475,"Lynch, Hamilton and Moore Spice Set",Food & Beverages,767.64,2025-05-17
+476,Smith-James Sneakers,Apparel,399.71,2025-08-19
+477,Blake LLC Bicycle,Sports & Outdoors,2684.27,2024-07-13
+478,"Hernandez, Barber and Scott Face Mask",Health & Beauty,3173.3,2023-12-22
+479,Chavez-Brooks Sneakers,Apparel,3494.89,2024-07-30
+480,Jones-Taylor Tent,Sports & Outdoors,1226.18,2023-12-30
+481,Moore and Sons Lotion,Health & Beauty,2269.59,2022-01-07
+482,Hensley Ltd Pen Set,Office Supplies,1549.9,2025-01-31
+483,Henry-Frost Chair,Home & Garden,68.26,2023-09-06
+484,"Brooks, Burns and Davidson Lamp",Home & Garden,823.34,2024-07-02
+485,Ortiz Inc Stuffed Animal,Toys & Games,2588.53,2022-07-13
+486,Frederick-Martin Cookbook,Books,1862.49,2025-03-31
+487,Krueger-Wise Biography,Books,3858.29,2025-03-13
+488,"Bailey, Fletcher and Reid Smartwatch",Electronics,4036.5,2023-07-26
+489,"Brown, Cruz and Coleman Encyclopedia",Books,324.04,2023-01-19
+490,Woods LLC Notebook,Office Supplies,2483.26,2024-09-07
+491,"Rhodes, Terry and Brewer Energy Drink",Food & Beverages,281.92,2023-02-10
+492,"Gibson, Becker and King Stapler",Office Supplies,1841.6,2024-07-24
+493,"Lynn, Skinner and Smith Biography",Books,4471.87,2025-04-12
+494,Newman Group Jacket,Apparel,3705.2,2023-09-10
+495,"Willis, Santana and Stone Smartphone",Electronics,4294.15,2022-10-21
+496,Martin-Simmons Headphones,Electronics,234.68,2024-12-10
+497,Mason-Ferguson Video Game,Toys & Games,4601.53,2023-08-18
+498,"Parker, Jenkins and Walter Lamp",Home & Garden,2766.56,2025-02-04
+499,Rodriguez PLC Makeup Set,Health & Beauty,1612.4,2025-04-21
+500,Olsen-Adams Skincare Cream,Health & Beauty,1359.93,2022-11-22
