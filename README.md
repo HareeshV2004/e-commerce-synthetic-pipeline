@@ -1,6 +1,4 @@
-# E-Commerce Synthetic Dataset
 
-This directory contains synthetic e-commerce datasets generated for testing and analysis purposes. All datasets maintain referential integrity and use realistic data patterns.
 # E-Commerce Synthetic Data Pipeline  
 **End-to-End Data Generation, Storage, and Analytics Consumption**
 
