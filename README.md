@@ -51,7 +51,7 @@ This mirrors real industry practices where synthetic data is used for **testing,
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 ### Synthetic Data Design
 - Defined realistic ranges and probability distributions  
@@ -71,28 +71,28 @@ Data structured to support:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Synthetic datasets can effectively support **analytics development and validation**  
 - Proper schema design significantly reduces downstream cleaning effort  
 - Pipeline consistency matters more than raw data volume for analytics reliability  
 
 ---
 
-## ⚠️ Assumptions & Limitations
+## Assumptions & Limitations
 - Synthetic data approximates patterns but cannot capture true human behavior  
 - External business dynamics (marketing, competition) are not modeled  
 - Designed for **testing and prototyping**, not production decision-making  
 
 ---
 
-## 🧠 Practical Applications
+## Practical Applications
 - BI dashboard development without privacy risk  
 - Analytics pipeline testing before real data availability  
 - Training datasets for junior analysts and data scientists  
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 - Event-level clickstream simulation  
 - Automated data validation checks  
 - Pipeline orchestration (scheduled runs)  
@@ -100,7 +100,7 @@ Data structured to support:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python  
 - Pandas, NumPy  
 - SQL (relational schema)  
@@ -108,7 +108,7 @@ Data structured to support:
 
 ---
 
-## 📎 Repository Structure
+## Repository Structure
 
 
 ## Dataset Files
